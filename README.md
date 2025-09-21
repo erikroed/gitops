@@ -1,5 +1,4 @@
 # gitops
 
-Repo used test gitops with github against a local k3s cluster.
-Following along the book "Implementing GitOps with Kubernetes"
-
+Repo used to follow along the book "Implementing GitOps with Kubernetes". 
+Testing with a local k3s cluster.
